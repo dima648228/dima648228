@@ -12,5 +12,5 @@
 
 # GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark?username=dima648228)](https://github.com/anuraghazra/github-readme-stats)
-![](https://nirzak-streak-stats.vercel.app/?user=dima648228&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?user=dima648228&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?username=dima648228&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dima648228&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
