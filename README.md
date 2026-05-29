@@ -1,5 +1,5 @@
 # Hi there, I'm [Dmitry](https://dima648228.github.io/my-portfolio/)
-### Cybersecurity student and programmer from Ukraine
+### Cybersecurity student and programmer
 
 # My Techstack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
