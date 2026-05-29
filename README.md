@@ -1,4 +1,4 @@
-# Hi there, I'm [Dmitry](https://dima648228.github.io/my-portfolio/)
+# Hi there, I'm Dmytro
 ### Cybersecurity student and programmer
 
 # My Techstack
